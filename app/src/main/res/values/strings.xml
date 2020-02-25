@@ -10,4 +10,22 @@
     <string name="froyo_order_message">You ordered a FroYo.</string>
     <string name="change_dessert">Change dessert</string>
     <string name="order_label_text" />
+    <string name="name_label_text">Name</string>
+    <string name="address_label">Address</string>
+    <string name="enter_address_hint">Enter your address here</string>
+    <string name="phone_label">Phone</string>
+    <string name="enter_phone_hint">Enter phone number here</string>
+    <string name="note_label">Notes</string>
+    <string name="enter_note_hint">notes...</string>
+    <string name="choose_a_delivery_method">Choose a delivery method:</string>
+    <string name="same_day_messenger_service">Same day service selected!</string>
+    <string name="next_day_ground_delivery">Next day ground selected!</string>
+    <string name="pick_up">We\'ll see you there!</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
 </resources>
